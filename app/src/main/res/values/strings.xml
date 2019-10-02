@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Четвертое занятие (activity+Intent-Filters+Bundle)</string>
+    <string name="catalogue_activity_name">Каталог</string>
+    <string name="map_activity_name">Карта</string>
+    <string name="search_activity_name">Поиск</string>
+    <string name="personal_account_name">Личный кабинет</string>
+
+
+    <string name="go_to_second">Go to MAP</string>
+    <string name="go_to_third">Go to SEARCH</string>
+    <string name="go_to_fourth">Go to Personal account</string>
+    <string name="go_to_first">GO to CATALOGUE</string>
+    <string name="enter_adress">Введите адрес</string>
+    <string name="go_to_adress">Перейти по адресу</string>
+</resources>
